@@ -1,0 +1,11 @@
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\bin\Debug\netcoreapp2.0\HRIS.WebAPI.deps.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\bin\Debug\netcoreapp2.0\HRIS.WebAPI.runtimeconfig.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\bin\Debug\netcoreapp2.0\HRIS.WebAPI.runtimeconfig.dev.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\bin\Debug\netcoreapp2.0\HRIS.WebAPI.dll
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\bin\Debug\netcoreapp2.0\HRIS.WebAPI.pdb
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.AssemblyInfo.cs
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.dll
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS.WebAPI\obj\Debug\netcoreapp2.0\HRIS.WebAPI.pdb

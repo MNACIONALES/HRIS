@@ -1,0 +1,11 @@
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\bin\Debug\netcoreapp2.0\HRIS.deps.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\bin\Debug\netcoreapp2.0\HRIS.runtimeconfig.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\bin\Debug\netcoreapp2.0\HRIS.runtimeconfig.dev.json
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\bin\Debug\netcoreapp2.0\HRIS.dll
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\bin\Debug\netcoreapp2.0\HRIS.pdb
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.AssemblyInfoInputs.cache
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.AssemblyInfo.cs
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.dll
+C:\Users\Nacionales\Documents\Visual Studio 2017\Projects\HRIS\HRIS\obj\Debug\netcoreapp2.0\HRIS.pdb
